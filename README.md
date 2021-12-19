@@ -1,4 +1,4 @@
-# grade-calculation-c-
+# grade-calculation-c++
 #include<iostream>
 using namespace std;
 int main()
